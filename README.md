@@ -1,5 +1,6 @@
 # discord.py-reactor
 
+ALSO TO USE DO PIP INSTALL DISCORD.PY
 
 This script is a Discord selfbot (not a bot token) that reacts to messages in a specific channel (or DM/GC) with a series of emojis:
 
